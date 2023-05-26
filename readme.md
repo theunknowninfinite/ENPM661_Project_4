@@ -37,7 +37,8 @@ $ roslaunch panda_moveit_config demo.launch
 $ rosrun moveit_tutorials pick_place_tutorial
 ````
 6. The output can be seen in the Rviz window. 
-
+## 4. Output
+The output can be found under Videos. 
 ## Credits 
 The authors of the moveit package for their excellent documentation and tutorials.
 ## Support
